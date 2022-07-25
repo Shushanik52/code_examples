@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5336d838-27aa-4f15-bb1e-09d97c338bb7" name="Changes" comment="" />
+    <list default="true" id="5336d838-27aa-4f15-bb1e-09d97c338bb7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/AddStickerOnCanvas/EditorSticker.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Vue/Example1/AddStickerOnCanvas/EditorSticker.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/AddStickerOnCanvas/data/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue/Example1/AddStickerOnCanvas/data/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/AddStickerOnCanvas/destroyed/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue/Example1/AddStickerOnCanvas/destroyed/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/AddStickerOnCanvas/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue/Example1/AddStickerOnCanvas/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/AddStickerOnCanvas/methods/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue/Example1/AddStickerOnCanvas/methods/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vue/AddStickerOnCanvas/mounted/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vue/Example1/AddStickerOnCanvas/mounted/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,31 +28,32 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CIgFupgOPa1Ma7Psj0aEtMYjFS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/snap/phpstorm/278/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/snap/phpstorm/278/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Laravel/Laravel + Jetstream + Inertia + React/resources/js/Pages" />
-      <recent name="$PROJECT_DIR$/Laravel/Laravel + Jetstream + Inertia + React/tests/Feature" />
+      <recent name="$PROJECT_DIR$/Vue" />
+      <recent name="$PROJECT_DIR$/Vue/test/Example2" />
       <recent name="$PROJECT_DIR$/Vue/Example1" />
-      <recent name="$PROJECT_DIR$/Vue/Example1/Editor" />
+      <recent name="$PROJECT_DIR$/Vue/Example1/AddStickerOnCanvas" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,7 +64,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658495413381</updated>
-      <workItem from="1658495414776" duration="12355000" />
+      <workItem from="1658495414776" duration="13658000" />
+      <workItem from="1658732125639" duration="10000" />
+      <workItem from="1658732174621" duration="777000" />
+      <workItem from="1658733269661" duration="1976000" />
     </task>
     <servers />
   </component>
